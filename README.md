@@ -60,11 +60,3 @@ To follow along with the course, you will need:
 ## License
 
 This course is released under the MIT License. Feel free to use the material and adapt it for your own learning or teaching purposes.
-
-## Contributing
-
-Contributions are welcome! Please submit a pull request with any enhancements, bug fixes, or new content suggestions.
-
----
-
-Let me know if you'd like any more adjustments!
